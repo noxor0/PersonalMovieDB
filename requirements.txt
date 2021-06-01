@@ -25,4 +25,4 @@ rsa==3.4.2
 s3transfer==0.1.11
 six==1.10.0
 tmdbsimple==1.6.1
-urllib3==1.21.1
+urllib3==1.26.5
